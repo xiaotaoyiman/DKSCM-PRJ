@@ -8,5 +8,6 @@
 	<modules>
 		<module>dkscm-commons</module>
 		<module>dkscm-service</module>
+		<module>dkscm</module>
 	</modules>
 </project>
