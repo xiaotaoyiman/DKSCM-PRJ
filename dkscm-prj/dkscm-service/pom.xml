@@ -21,6 +21,11 @@
 	
 	<dependencies>
 		<dependency>
+			<groupId>cn.ekgc.dkscm</groupId>
+			<artifactId>dkscm-commons</artifactId>
+			<version>${parent.version}</version>
+		</dependency>
+		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.11</version>
